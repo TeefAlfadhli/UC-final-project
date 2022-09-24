@@ -1,0 +1,47 @@
+p{
+font-family: 'Amiri', serif;
+display: inline;
+font-weight: 50;
+font-size: xx-large;
+z-index: 1;
+color: #eeee;
+position: absolute;
+left: 30px;
+top: 240px;
+bottom: 100px;
+}
+
+.navbar
+{
+    background-color: #87A2FB;
+    display: block;
+    font-family: 'Amiri', serif;
+
+
+}
+
+.vid{
+
+    position: absolute;
+    object-fit: cover;
+    width: 1536px;
+    height: 450px;
+    z-index: 0;
+    object-fit: cover;
+    display: inline;
+    left: 0;
+}
+
+
+.btn{
+    display: flex;
+    z-index: 1; 
+    position: absolute;
+    left: 270px;
+    top: 350px;
+}
+
+.navbar1
+{
+    color: azure;
+}

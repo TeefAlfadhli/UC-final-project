@@ -1,0 +1,1 @@
+alert("Please contact Addmition office to register if you are a new student")
